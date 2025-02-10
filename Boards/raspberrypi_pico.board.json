@@ -26,16 +26,16 @@
   },
   "ModuleLimits": {
     "MaxAnalogInputs": 3,
-    "MaxInputShifters": 6,
+    "MaxInputShifters": 32,
     "MaxButtons": 26,
     "MaxEncoders": 13,
     "MaxLcdI2C": 2,
     "MaxLedSegments": 6,
     "MaxOutputs": 26,
     "MaxServos": 8,
-    "MaxShifters": 6,
+    "MaxShifters": 32,
     "MaxSteppers": 6,
-    "MaxInputMultiplexer": 6,
+    "MaxInputMultiplexer": 32,
     "MaxCustomDevices": 0
   },
   "Pins": [
